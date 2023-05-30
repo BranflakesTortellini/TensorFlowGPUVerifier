@@ -1,3 +1,5 @@
+The GPU test script will verify that Tensorflow is recognizing your GPU and train a small Convolutional Nueral Network to double check that it is working.
+
 This script tests the following:
 
 - It checks if you have TensorFlow (TF) installed and displays the Python and driver versions.
